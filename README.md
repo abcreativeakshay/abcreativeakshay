@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Akshay Biradar — AI Engineer @ Peakso" width="100%"/>
+  <img src="./assets/banner.svg" alt="Akshay Biradar — AI Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ## About Me
 
-I'm an **AI Engineer at Peakso (Remote)** and a **B.Tech Computer Science student at MIT ADT University, Pune (2024–2028)**.
+I'm an **AI Engineer** and a **B.Tech Computer Science student at MIT ADT University, Pune (2024–2028)**.
 
 I build AI systems that run in production — not demos. My work spans **LLM-powered features** (LangChain, GPT-4o-mini, prompt engineering, AI agents), **end-to-end ML pipelines** (scikit-learn, XGBoost, feature engineering, handling class imbalance), and **deploying models behind live REST APIs**.
 
-- 🔭 Currently: shipping production AI at **Peakso** — including **COGNIVA**, a voice-first dementia-care companion (English / Hindi / Marathi)
+- 🔭 Currently: building production AI systems — including **COGNIVA**, a voice-first dementia-care companion (English / Hindi / Marathi)
 - 🏆 Currently competing in **Enveda CASMI 2026** (Kaggle) — identifying molecules from MS/MS spectra
 - 🌱 Focused on: LLM apps, ML pipelines, model deployment, and Edge AI
 - 📍 Based in Pune, Maharashtra, India — open to **AI Engineer / ML Engineer** internships (India / Remote)
