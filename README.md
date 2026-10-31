@@ -21,6 +21,22 @@ I build AI systems that run in production — not demos. My work spans **LLM-pow
 - 📍 Based in Pune, Maharashtra, India — open to **AI Engineer / ML Engineer** internships (India / Remote)
 - 💬 Ask me about: Python, LangChain, XGBoost, time-series forecasting, and getting ML into production
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,aws,postgres,firebase,supabase,fastapi,git" alt="Tech stack — Python, scikit-learn, Pandas, NumPy, AWS, PostgreSQL, Firebase, Supabase, FastAPI, Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-161210?style=for-the-badge&logo=langchain&logoColor=f2a93b" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/GPT--4o--mini_·_LLM_Apps-161210?style=for-the-badge&logo=openai&logoColor=f2a93b" alt="LLM Apps"/>
+  <img src="https://img.shields.io/badge/XGBoost-161210?style=for-the-badge&logo=xgboost&logoColor=f2a93b" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Snowflake-161210?style=for-the-badge&logo=snowflake&logoColor=f2a93b" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-161210?style=for-the-badge&logo=huggingface&logoColor=f2a93b" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Power_BI-161210?style=for-the-badge&logo=powerbi&logoColor=f2a93b" alt="Power BI"/>
+</p>
+
+> **Core stack (same as my LinkedIn banner):** Python · LangChain · scikit-learn · Pandas · NumPy · AWS · Snowflake · PostgreSQL · Firebase · Supabase
+
 ## Highlights
 
 - **Credit card fraud detection** on real transaction data — **AUC 0.9999 · Precision 0.99 · Recall 0.98** — with a live REST API for real-time scoring (SMOTE + threshold tuning)
@@ -40,32 +56,6 @@ I build AI systems that run in production — not demos. My work spans **LLM-pow
 | [COVID-19 Forecasting & Analysis](https://github.com/abcreativeakshay/COVID-19-Forcasting-and-Analysis) | Pandemic trend analysis + 60-month forecasts (global + India) | Prophet · ARIMA · SARIMA · Plotly |
 | [Sales Forecasting & Customer Analytics](https://github.com/abcreativeakshay/Sales-Forecasting-Customer-Analytics-Capstone-Project) | Walmart weekly sales + 387K retail transactions, 3,226 customers segmented | Forecasting · seasonality · segmentation |
 | [Hybrid QML Disease Detection](https://github.com/abcreativeakshay/hybrid-qml-disease-detection) | Hybrid quantum-classical ML platform for early disease detection (SIH) | Quantum ML · Python · Streamlit |
-
-## Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-161210?style=for-the-badge&logo=python&logoColor=f2a93b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161210?style=for-the-badge&logo=scikitlearn&logoColor=f2a93b)
-![XGBoost](https://img.shields.io/badge/XGBoost-161210?style=for-the-badge&logo=xgboost&logoColor=f2a93b)
-![Pandas](https://img.shields.io/badge/Pandas-161210?style=for-the-badge&logo=pandas&logoColor=f2a93b)
-![NumPy](https://img.shields.io/badge/NumPy-161210?style=for-the-badge&logo=numpy&logoColor=f2a93b)
-
-**LLM / GenAI**
-
-![LangChain](https://img.shields.io/badge/LangChain-161210?style=for-the-badge&logo=langchain&logoColor=f2a93b)
-![OpenAI](https://img.shields.io/badge/GPT--4o--mini-161210?style=for-the-badge&logo=openai&logoColor=f2a93b)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-161210?style=for-the-badge&logo=huggingface&logoColor=f2a93b)
-
-**Data, Backend & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-161210?style=for-the-badge&logo=amazonaws&logoColor=f2a93b)
-![Snowflake](https://img.shields.io/badge/Snowflake-161210?style=for-the-badge&logo=snowflake&logoColor=f2a93b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161210?style=for-the-badge&logo=postgresql&logoColor=f2a93b)
-![Firebase](https://img.shields.io/badge/Firebase-161210?style=for-the-badge&logo=firebase&logoColor=f2a93b)
-![Supabase](https://img.shields.io/badge/Supabase-161210?style=for-the-badge&logo=supabase&logoColor=f2a93b)
-![FastAPI](https://img.shields.io/badge/FastAPI-161210?style=for-the-badge&logo=fastapi&logoColor=f2a93b)
-![Power BI](https://img.shields.io/badge/Power_BI-161210?style=for-the-badge&logo=powerbi&logoColor=f2a93b)
 
 ## Certifications
 
